@@ -251,7 +251,7 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "http://167.234.211.77:41541/down/VFiHKx8kRkYn.txt",
+      "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1,
       "timeout": 10
