@@ -2,16 +2,6 @@
   "spider": "https://gitee.com/huangxiong2024/jar/raw/master/gg4k.jar;md5;46761ee087c0f297de2abf92ec088591",
   "logo":"https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "sites": [
-     {
-      "key": "农民影视",
-      "name": "蓝光┃超清",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://file.space.commonspace.one/农民影视.json"
-      },
       {
       "key": "热播",
       "name": "蓝光┃热播",
@@ -24,12 +14,6 @@
         "url": "http://v.rbotv.cn"
       }
     },
-      {
-      "key": "瓜子",
-      "name": "蓝光┃秒播",
-      "type": 3,
-      "api": "csp_Gz360"
-    },
     {
             "key": "1905",
             "name": "经典｜秒播",
@@ -41,27 +25,6 @@
             "quickSearch": 0,
             "filterable": 0
     },
-    {
-            "key": "龙伊扒的",
-            "name": "秒播┃备用",
-            "api": "csp_Gz360",
-            "jar": "https://gitee.com/hu-congrong/lxbsc/raw/main/lib/08015.jar",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0
-    },
-    {
-			"key": "hipy_js_eytgz4k",
-			"name": "瓜子┃短剧①",
-			"type": 3,
-			"api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子影视.js"
-		},	
     {
             "key": "1905",
             "name": "经典｜秒播",
